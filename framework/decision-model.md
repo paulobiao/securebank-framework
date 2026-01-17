@@ -1,23 +1,36 @@
 # SecureBank Decision Model
 
-## 1. Problem Statement
-Explain the decision gap faced by boards and executives when translating cyber incidents into financial and regulatory impact.
+## Purpose
+SecureBank is a decision-centric framework designed to support executive and board-level decision-making by translating cyber risk events into business and regulatory impact.
 
-## 2. Core Assumption
-Describe the key assumption behind SecureBank: cyber risk propagates systemically across technical, operational, financial, and regulatory layers.
+It does not aim to detect threats or replace security controls.
+Its purpose is to answer a different question:
 
-## 3. Decision Flow Overview
-Outline the high-level decision flow used by SecureBank (no math, no code).
+**“If this cyber risk materializes, what is the business and regulatory impact, and what decisions must be taken now?”**
 
-## 4. Input Signals
-List the categories of inputs considered (technical signals, control failures, regulatory exposure, business criticality).
+---
 
-## 5. Impact Translation Logic
-Explain how technical failures are translated into financial and compliance impact.
+## Problem Statement
+Most cybersecurity frameworks focus on controls, maturity models, or technical risk scoring.
 
-## 6. Output for Decision Makers
-Describe what a board or executive receives as output.
+While valuable, they fail to address a critical gap:
+- Cyber risk is assessed in isolation
+- Business and regulatory impacts are treated as downstream consequences
+- Executive decisions are made without a unified risk propagation view
 
-## 7. Scope and Limitations
-Clarify what SecureBank does NOT attempt to solve.
+As a result, organizations often discover the true cost of cyber risk **after** an incident, not before.
+
+---
+
+## Decision-First Approach
+SecureBank introduces a decision-first model.
+
+Instead of asking:
+- “Are we compliant?”
+- “Is this control implemented?”
+
+SecureBank asks:
+- “What decision must be made if this fails tomorrow?”
+- “Who owns the decision?”
+- “What is the exposure if no action is taken?”
 
