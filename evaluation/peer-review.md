@@ -40,7 +40,10 @@ Reviews may occur through:
 - Case-based analysis
 - Structured peer commentary
 
-Both formal and informal expert reviews are considered valid.
+Both formal and documented expert reviews are considered valid,
+provided they are independent, attributable, and preserved as
+verifiable records.
+
 
 ---
 
@@ -57,6 +60,8 @@ All meaningful feedback is documented and versioned.
 ---
 
 ## Transparency
-The SecureBank Framework embraces critical review.
-Disagreement and challenge are considered part of its maturation process.
+The SecureBank Framework embraces critical and independent review.
+Disagreement, challenge, and dissenting opinions are considered
+essential to its maturation and credibility.
+
 
