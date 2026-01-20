@@ -1,3 +1,13 @@
 # SecureBank — Definition
 
-SecureBank is a framework that quantifies the propagation of transactional risks to enable executives and boards to make measurable financial decisions in environments of high regulatory exposure.
+SecureBank™ is a decision-grade framework that models how cyber and
+transactional risks propagate across interconnected systems and
+materialize as financial and regulatory exposure.
+
+The framework is designed to support executive and board-level
+decision-making by transforming technical risk signals into measurable,
+time-dependent impact and defensible decision options.
+
+SecureBank is intentionally technology-agnostic, implementation-independent,
+and applicable to highly regulated financial and critical infrastructure
+environments.
