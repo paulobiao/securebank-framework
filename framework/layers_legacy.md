@@ -1,3 +1,18 @@
+> ⚠️ **Legacy Draft Notice**
+>
+> This document reflects an early draft of SecureBank’s layered
+> architecture. It is preserved for historical context and conceptual
+> evolution.
+>
+> The authoritative definition of the SecureBank framework layers is
+> documented in:
+> - `framework/overview.md`
+> - `layer1_threat_propagation.md`
+> - `layer2_systemic_dependencies.md`
+> - `layer3_impact_quantification.md`
+> - `layer4_regulatory_exposure.md`
+> - `layer5_decision_resilience.md`
+
 # SecureBank — Layers (Draft)
 
 ## Layer 1 — Identity
