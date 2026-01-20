@@ -1,4 +1,11 @@
-# Risk Propagation Methodology
+# Risk Propagation — Conceptual Methodology Overview
+> This document provides a conceptual overview of risk propagation
+> within the SecureBank framework. The authoritative definition of
+> propagation logic and assumptions is documented in:
+>
+> - `framework/layer1_threat_propagation.md`
+> - `framework/layer2_systemic_dependencies.md`
+
 
 ## Objective
 This section describes how cyber risk propagates from technical events into business, financial, and regulatory exposure.
