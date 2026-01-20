@@ -1,7 +1,10 @@
 # Board-Level Usage of the SecureBank Framework
 
 ## Purpose
-This section defines how the SecureBank Framework is intended to be used by boards, executive committees, and senior risk leadership.
+This section defines how the SecureBank Framework is intended to be used
+by boards, executive committees, and senior risk leadership as a
+governance instrument for accountable cyber risk decision-making.
+
 
 SecureBank is not a reporting tool.
 It is a **decision-support mechanism**.
@@ -56,7 +59,9 @@ Its value lies in enabling **informed executive judgment**.
 ---
 
 ## Governance Value
-By formalizing risk-to-decision pathways, SecureBank:
+By formalizing risk-to-decision pathways, SecureBank establishes a
+repeatable governance mechanism that:
+
 
 - Reduces ambiguity in board discussions
 - Aligns cyber risk with business language
