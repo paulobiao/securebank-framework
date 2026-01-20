@@ -1,4 +1,8 @@
-# SecureBank Decision Model
+# SecureBank — Decision-First Rationale
+> This document describes the conceptual rationale behind SecureBank’s
+> decision-first approach. The formal decision and resilience model
+> is defined in `layer5_decision_resilience.md`.
+
 
 ## Purpose
 SecureBank is a decision-centric framework designed to support executive and board-level decision-making by translating cyber risk events into business and regulatory impact.
